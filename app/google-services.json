@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72306697572",
+    "firebase_url": "https://demomvp-0409y2504t.firebaseio.com",
+    "project_id": "demomvp-0409y2504t",
+    "storage_bucket": "demomvp-0409y2504t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72306697572:android:efa37911e4edeba4",
+        "android_client_info": {
+          "package_name": "com.itc.thaithang.mvpandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72306697572-rd9mcgpk0nsj1n4bsp7hkvebdd2untlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itc.thaithang.mvpandroid",
+            "certificate_hash": "0f7b35772bc8d0ddd381f80ffcc87439c2c6a8c7"
+          }
+        },
+        {
+          "client_id": "72306697572-biqkqcmdqlbsutmlbikgmqthrs83u4c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZM16fipqXNwG2tXAeN1k76rjiiI1yCUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72306697572-biqkqcmdqlbsutmlbikgmqthrs83u4c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
